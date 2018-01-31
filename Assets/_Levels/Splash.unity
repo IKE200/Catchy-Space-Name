@@ -141,7 +141,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   timeToWait: 5
-  levelToLoad: Level 1
+  levelToLoad: TestLevel
 --- !u!4 &482059900
 Transform:
   m_ObjectHideFlags: 0

@@ -13,4 +13,9 @@ public class Ship : MonoBehaviour {
 	void Update () {
 		
 	}
+
+    void OnTriggerEnter(Collider collider)
+    {
+        print("Hit something");
+    }
 }
